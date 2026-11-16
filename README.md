@@ -1,0 +1,3 @@
+Laura Lopez
+Descripció del programa: El programa té una temperatura definida, i la imprimeix per pantalla, a la branca main, aquest es el programa inicial. A la branca Farenheit, converteix la temperatura a graus Fahrenheit, i també la imprimeix per pantalla junt a la en graus. A la branca classificació, només té la temperautra en graus, però imprimeix per pantalla si la temperatura és alta (més de 20 graus) o baixa (menys de 20 graus): Això ho fem amb un if /else.
+Com compilar-ho: Primer canviem a la branca on estigui la versió del programa que volem compilar, fiquem a la terminat la instrucció gcc -Wall -Wextra temperatura.c -o temperatura, i en un altra instrucció fiquem ./temperatura.
